@@ -89,3 +89,4 @@ Using password method 0x434C49434B, what is the password to open the door?
 Your puzzle answer was [REDACTED].
 
 Both parts of this puzzle are complete! They provide two gold stars: **
+
