@@ -7,7 +7,7 @@ import pandas as pd
 # %%
 # read input
 script_dir = Path(__file__).parent
-input_file = script_dir / "input" / "day-two-input.csv"
+input_file = script_dir / "input" / "day02-input.csv"
 
 # input = ['1-100','101-200', '200-10000'] # for testing
 input_df = pd.read_csv(input_file, header=None)
